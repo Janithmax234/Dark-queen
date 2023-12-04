@@ -1,5 +1,6 @@
 I linked a new person, would you like to try it today?
 
+<title>Mongo database</title>
 
 <div>DARK QUEEN ARTIFICIAL INTELIGENTE</div>
 
