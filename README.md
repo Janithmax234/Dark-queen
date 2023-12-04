@@ -24,6 +24,27 @@ Scan QR Code
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Janithmax234/Dark-queen)***
 ---
+
+Copy the JSON down and paste in repl and hiroku then fill the vars
+
+```
+{
+  "SESSION_ID": "ID",
+  "OWNER_NUMBER": "94774071805",
+  "OWNER_NAME": "kaveesha",
+  "OPENAI_API_KEY": "null",
+  "MONGODB_URI": "mongodb://mongo:Kx3SgXwvW4AkhXZQMDwx@containers-us-west-48.railway.app:5828",
+  "PACK_INFO": "Dark;Nero",
+  "PREFIX": ".",
+  "AUTO_REACTION": false,
+  "READ_MESSAGE" : true,
+   "THEME" : 'Dark-Nero',
+  "ALWAYS_ONLINE": 'true'
+
+   
+}
+```
+
   <hr>
   <h2>Deployments METHODS</h2>
   <details close>
