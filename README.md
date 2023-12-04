@@ -45,7 +45,7 @@ Scan QR Code
     <br>
     <h4 align="center">Deploy on Heroku</h4>
     <p align="center">
-      <a href="https://heroku.com/deploy?template=https://github.com/Maccoder3/MAC-MD">
+      <a href="https://heroku.com/deploy?template=https://github.com/Janithmax234/Dark-queen">
         <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku">
       </a>
     </p>
