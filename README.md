@@ -136,8 +136,8 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JANETH" alt="Typing SVG" /></a>
+  <p align="center">  
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=825&lines=JANETH" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" >
