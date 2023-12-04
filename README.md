@@ -7,7 +7,7 @@
         src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </a>
   </p>
-  <h1 align="center">AI DARK QUEEN MULTDIVICE WHATSAPP BOT</h1>
+  <h1 align="center">AI DARK QUEEN MULTDIVICE </h1>
   <p align="center">
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
   </p>
