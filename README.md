@@ -6,7 +6,7 @@
   <p align="center">
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
       <img alt="Support" height="300"
-        src="https://www.bing.com/images/search?view=detailV2&ccid=bdIhlhP9&id=EF8331BB5C9218B91EB49994203DEC1C365D2CC8&thid=OIP.bdIhlhP9UUi4u7wkDJKmpwHaGl&mediaurl=https%3a%2f%2ffsa.zobj.net%2fcrop.php%3fr%3dD4Lnb-BEQ6KFRTJK1ygpCVXawIn8FmrS0qYVOoHGbklOmEabcPi3l0-j0thhAJTD-AO8IqV8-SsiHGORwF6xiDytryctR-ugeAoLwv31mKc6_CdG4cqvBfvXMja1ElYhCRfI4BKlAXzaYUka&exph=960&expw=1080&q=dark+pictures+links+&simid=608008232579632104&FORM=IRPRST&ck=4244CD9609D483FCBE85FA1A0D6A3EE8&selectedIndex=0&itb=0">
+        src="(https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)
     </a>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
