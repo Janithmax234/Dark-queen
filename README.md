@@ -31,7 +31,7 @@ Scan QR Code
     <br><br>
     <h4 align="center">Deploy on Repl.it</h4>
     <p align="center">
-      <a href="https://repl.it/github/Maccoder3/MAC-MD">
+      <a href="-------------------------">
         <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT">
       </a>
     </p>
