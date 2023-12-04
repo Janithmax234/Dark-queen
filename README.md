@@ -7,7 +7,7 @@
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
      <img alt="secktor docs" height="600" src="https://i.ibb.co/CK5R8yB/Screenshot-20231204-233231.jpg">  </a>
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
   <p align="center">
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
@@ -65,7 +65,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PLEASE,GIVE ME A STAR+🎧" alt="Typing SVG" /></a>
 
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT+🎧" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT+🎧" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY+STONE+AGE+JANITH+🎧" alt="Typing SVG" /></a>
 
@@ -150,5 +150,5 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=JANETH+INDUNIL+PRIYADARSHANA'S+BABY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY" alt="Typing SVG" /></a>
 </p>
