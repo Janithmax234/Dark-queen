@@ -68,7 +68,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PLEASE,GIVE ME A STAR+🎧" alt="Typing SVG" /></a>
 
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT+🎧" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY+STONE+AGE+JANITH+🎧" alt="Typing SVG" /></a>
 
