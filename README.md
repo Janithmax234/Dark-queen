@@ -15,7 +15,7 @@
   </p>
   <p align="center">
     <a href="https://chat.whatsapp.com/FxJHUkHOXRBGx4df0K6Qcj" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ AI DARK QUEEN SUPPORT GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=red" />
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ AI DARK QUEEN SUPPORT GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
     </a>
   </p>
 ---
@@ -136,7 +136,8 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     <img src="https://graph.org/file/2af0e67f320986702ea24.jpg" alt="Deploy on Boxmineworld" width="175px">
     </a>
     <br>
-
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=655&lines=JANETH" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" >
