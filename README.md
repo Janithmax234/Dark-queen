@@ -25,7 +25,7 @@ Scan QR Code
 
 1. ***Get [SESSION-ID](https://replit.com/@Janithidunil/Dark-queen) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
-# ```a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[FORK REPO]" alt="Typing SVG" /></a>```
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[FORK REPO]" alt="Typing SVG" /></a>
 2. ***Click [FORK](https://github.com/Janithmax234/Dark-queen)***
 ---
 
