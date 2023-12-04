@@ -1,5 +1,4 @@
-n
-
+I linked a new person, would you like to try it today?
 
 
 
