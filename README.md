@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+AI+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+REAL+JANITH;MR+DARK+JANITH🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;4FLAG+V+9++🎧)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+REAL+JANITH;MR+DARK+JANITH🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;4FLAG+V+9++🎧)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 <html>
@@ -134,7 +134,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     </a>
     <br>
   <p align="center">  
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=JANETH+INDUNIL+PRIYADARSHANA'S+BABY" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY+🎧" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" >
@@ -150,5 +150,5 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY+🎧" alt="Typing SVG" /></a>
 </p>
