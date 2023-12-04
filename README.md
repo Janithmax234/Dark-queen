@@ -19,7 +19,7 @@
     </a>
   </p>
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[SCAN+DARK+QUEEN+QR]" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[SCAN+DARK+QUEEN'S+QR]" alt="Typing SVG" /></a>
 
 1. ***Get [SESSION-ID](https://replit.com/@Janithidunil/Dark-queen) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
