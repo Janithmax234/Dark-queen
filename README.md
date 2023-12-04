@@ -137,7 +137,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     </a>
     <br>
   <p align="center">  
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=825&lines=JANETH" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=JANETH" alt="Typing SVG" /></a>
 </p>
 
 <p align="center" >
@@ -145,8 +145,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     __________________________
     <br>
 </p>
-
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=JANETH" alt="Typing SVG" /></a>
+</p>
 
 </details>
 
