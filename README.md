@@ -13,7 +13,7 @@
   </p>
   <p align="center">
     <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ AI DARK QUEEN SUPPORT GROUP -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ AI DARK QUEEN SUPPORT GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
     </a>
   </p>
 ---
