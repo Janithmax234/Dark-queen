@@ -56,12 +56,23 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   "WORKTYPE": 'privet/public',
   "ACTIVE_GLINK": 'https://chat.whatsapp.com/FxJHUkHOXRBGx4df0K6Qcj',
   "CHAT_BOT_NAME": 'simsimi', 
-
-
-
    
 }
 ```
+
+## <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=🅳O+YOU+WANNA+HELP+FOR+ME  🎧" alt="">
+</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PLEASE,GIVE ME A STAR+🎧" alt="Typing SVG" /></a>
+
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=CREATED+BY+STONE+AGE+JANITH" alt="Typing SVG" /></a>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IF+YOU+WANNA+CHAT+ME.+MY+NUMBER+94752013794+🎧" alt="Typing SVG" /></a>
+
+
 
   <hr>
   <h2>Deployments METHODS</h2>
