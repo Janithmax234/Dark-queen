@@ -8,7 +8,8 @@
       <img alt="Support" height="300"
         src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </a>
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
   <p align="center">
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
@@ -77,7 +78,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
   <hr>
-  <h2>Deployments METHODS</h2>
+  <h2>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[DEPLOYMENT METHODS]" alt="Typing SVG" /></a>
+  </h2>
   <details close>
     <summary>Click to choose your favorite platform to deploy</summary>
     <br><br>
