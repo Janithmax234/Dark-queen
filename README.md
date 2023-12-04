@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
       <img alt="Support" height="300"
-        src="https://telegra.ph/file/d56271ce89ab876ba00b8.jpg">
+        src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
     </a>
   </p>
   <h1 align="center">AI DARK QUEEN MULTDIVICE WHATSAPP BOT</h1>
