@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+🅂𝗛𝗘𝗡𝗨╺+🅀𝗨𝗘𝗘𝗡+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙳𝙺+𝚃𝙷𝚄𝚂𝙷𝙰𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝘾𝙔.༆𝙏𝙃𝙐𝙎𝙃𝘼𝙉;𝐌𝐑:+☬𝘿𝙆༒𝙏𝙃𝙐𝙎𝙃𝘼𝙉࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+🅂𝗛𝗘𝗡𝗨╺+🅀𝗨𝗘𝗘𝗡+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙳𝙺+𝚃𝙷𝚄𝚂𝙷𝙰𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝘾𝙔.༆𝙏𝙃𝙐𝙎𝙃𝘼𝙉;𝐌𝐑:+☬𝘿𝙆༒𝙏𝙃𝙐𝙎𝙃𝘼𝙉࿐;💕ඉතිං+ARE+YOU🎧;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 <html>
