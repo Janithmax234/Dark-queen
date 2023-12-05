@@ -82,7 +82,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     <br><br>
     <h4 align="center">Deploy on Repl.it</h4>
     <p align="center">
-      <a href="-------------------------">
+      <a href="https://replit.com/@Janithidunil/Dark-queen">
         <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT">
       </a>
     </p>
