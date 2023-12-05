@@ -5,7 +5,7 @@
 <body>
   <p align="center">
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
-     <img alt="secktor docs" height="600" src="https://i.ibb.co/LgTtP7p/Screenshot-20231205-095806.jpg">  </a>
+     <img alt="dark queen docs" height="600" src="https://i.ibb.co/LgTtP7p/Screenshot-20231205-095806.jpg">  </a>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
@@ -149,6 +149,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <br>
 
 
+<img alt="secktor docs" height="600" src="https://i.ibb.co/HCdMSw3/Screenshot-20231205-101553.jpg">  
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY+🎧" alt="Typing SVG" /></a>
 </p>
+
