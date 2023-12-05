@@ -158,6 +158,10 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <a href="https://wa.me/qr/LTVUTK3OMRDWG1" target="_blank">
       <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ɴᴜᴍʙᴇʀ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
 
+
+
+      
+
 <img alt="dark queen docs" height="600" src="https://i.ibb.co/cLrq4jx/Screenshot-20231205-105625.jpg:">
 
 
