@@ -5,7 +5,7 @@
 <body>
   <p align="center">
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
-     <img alt="dark queen docs" height="600" src="https://i.ibb.co/YksKqR6/Screenshot-20231205-115035.jpg">  </a>
+     <img alt="dark queen docs" height="400" src="https://i.ibb.co/YksKqR6/Screenshot-20231205-115035.jpg">  </a>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
