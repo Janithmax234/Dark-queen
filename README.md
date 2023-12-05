@@ -173,7 +173,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
       
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NIMESH+SANKALPA+🎧" alt="Typing SVG" /></a>
+<a href="https://git.io/typihttps://github.com/PikaBotzng-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NIMESH+SANKALPA+🎧" alt="Typing SVG" /></a>
 </p>
 
 
@@ -195,16 +195,16 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
 
-<h1 align="center">Anya_v2 - MultiDevice</h1>
+<h1 align="center">DARK+QUEEN+MULTDIVICE</h1>
 
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 <p align="center">
-    <a href="#"><img title="Anya_v2-MD" src="https://img.shields.io/badge/WhatsApp%20BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    <a href="#"><img title="DARK_QUEEN-MD" src="https://img.shields.io/badge/WhatsApp%20BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/PikaBotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Janithmax234/Dark-queen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
 </p>
