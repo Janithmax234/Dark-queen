@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+REAL+JANITH;MR+DARK+JANITH🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;4FLAG+V+9++🎧)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+REAL+JANITH;MR+DARK+JANITH🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;DARK+QUEEN+V1.0.1++🎧)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 <html>
