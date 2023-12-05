@@ -159,6 +159,6 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+HE'S+NIMESH+SANKALPA+🎧" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NIMESH+SANKALPA+🎧" alt="Typing SVG" /></a>
 </p>
 
