@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+REAL+JANITH;MR+DARK+JANITH🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;DARK+QUEEN+V1.0.1++🎧)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;POWERD+BY+JANITH+INDUNIL+PRIYADARSHANA🎧;CREATED+BY+JANITH+&+SANKALPA;MR+DARK+JANITH+&+SANKALPA🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;DARK+QUEEN+V1.0.1++🎧)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 <html>
@@ -155,6 +155,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+JANETH+INDUNIL+🎧" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://wa.me/qr/LTVUTK3OMRDWG1" target="_blank">
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ɴᴜᴍʙᴇʀ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+
 <img alt="dark queen docs" height="600" src="https://i.ibb.co/cLrq4jx/Screenshot-20231205-105625.jpg:">
 
 
@@ -162,3 +165,5 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NIMESH+SANKALPA+🎧" alt="Typing SVG" /></a>
 </p>
 
+<a href="https://wa.me/qr/L3TVJHDOKKIBB1" target="_blank">
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ  ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ  ɴᴜᴍʙᴇʀ -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
