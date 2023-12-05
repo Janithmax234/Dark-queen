@@ -72,6 +72,9 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IF+YOU+WANNA+CHAT+ME.+94752013794+🎧" alt="Typing SVG" /></a>
 
 
+<img src="https://i.ibb.co/6rz6n5G/5f4d8f95ce745e81dbe86a3274777d06.jpg">
+## ```HEROKU DEPLOYMENT```
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Janithmax234/Dark-queen)
 
   <hr>
   <h2>
