@@ -152,6 +152,8 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <img alt="secktor docs" height="600" src="https://i.ibb.co/HCdMSw3/Screenshot-20231205-101553.jpg">  
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+THIS'S+DARK+QUEEN+BABY+🎧" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=YEP+HE'S+JANETH+INDUNIL+🎧" alt="Typing SVG" /></a>
 </p>
+
+<img alt="dark queen docs" height="600" src="https://i.ibb.co/cLrq4jx/Screenshot-20231205-105625.jpg:">
 
