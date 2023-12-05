@@ -185,6 +185,6 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
       <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ɴᴜᴍʙᴇʀ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
 
 
-      <p align="center">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NISHAN+BUDDHIKA+🎧" alt="Typing SVG" /></a>
 </p>
