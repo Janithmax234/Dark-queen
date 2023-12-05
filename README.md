@@ -5,7 +5,7 @@
 <body>
   <p align="center">
     <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
-     <img alt="secktor docs" height="600" src="https://i.ibb.co/CK5R8yB/Screenshot-20231204-233231.jpg">  </a>
+     <img alt="secktor docs" height="600" src="https://i.ibb.co/LgTtP7p/Screenshot-20231205-095806.jpg">  </a>
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
