@@ -198,7 +198,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <h1 align="center">DARK QUEEN MULTDIVICE</h1>
 
 <p align="center">
-  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+janith;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dark+Queen+MultiDevice;New+Plugin+Base+Modification;Developed+by+janith;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 <p align="center">
