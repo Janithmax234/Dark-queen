@@ -160,27 +160,6 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 
-
-
-      
-<img alt="dark queen docs" height="600" src="https://i.ibb.co/cLrq4jx/Screenshot-20231205-105625.jpg:">
-
-<a href="https://wa.me//+94723795423?text=ʜʏᴇ ᴀᴍ ꜱᴀɴᴋᴀʟᴘᴀ.ʜᴇʟᴘ ᴍᴇ ꜰᴏʀ ᴛʜᴇ ᴜʀ ᴘʀᴏᴊᴇᴄᴛ " target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ  ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ  ɴᴜᴍʙᴇʀ -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
-
-
-
-
-<a href="https://wa.me/qr/LTVUTK3OMRDWG1" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴅᴀʀᴋ Qᴜᴇᴇɴ ᴏᴡɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ ɴᴜᴍʙᴇʀ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
-
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=425&lines=🎧+YEP+HE'S+NISHAN+BUDDHIKA+🎧" alt="Typing SVG" /></a>
-</p>
-
-
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
