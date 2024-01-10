@@ -175,5 +175,5 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 </p>
 
 <p align="center">
-    <a href="https://github.com/Janithmax234/Dark-queen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PikaBotz-green.svg?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Janithmax234/Dark-queen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-JanithBotz-green.svg?style=for-the-badge&logo=github"></a>
 </p>
