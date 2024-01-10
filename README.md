@@ -9,6 +9,14 @@
   <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
  </h1>
+    
+    <p align="center">
+<a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
+<a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
+</p>
+
   <p align="center">
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
   </p>
@@ -160,6 +168,29 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 
 
+ 
+
+
+### TERMUX
+1. 
+```sh
+$ pkg upgrade -y && pkg update -y
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone https://github.com/PRINCE-GDS/THE-PRINCE-BOT
+$ cd THE-PRINCE-BOT
+$ npm i 
+$ npm start
+```
+2. Wait for the to start...
+3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
+---------
+
+<h2 align="left">All Credits To Teach By Akash</h2>
+
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </p>
@@ -167,7 +198,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 <h1 align="center">DARK QUEEN MULTDIVICE</h1>
 
 <p align="center">
-  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Dark+Queen+MultiDevice;New+Plugin+Base+Modification;Developed+by+janith;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/Janithmax234/Dark-queen"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Thank+you+for+little+smiling+after+all+the+things.+You+have+need+through.+I+need+love+from+you.+Please,+Allow+the+subconscious+mind+for+me." alt="AnyaReadme"></a>
 </p>
 
 <p align="center">
