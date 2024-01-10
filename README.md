@@ -8,7 +8,8 @@
      <img alt="dark queen docs" height="900" src="https://i.ibb.co/R2TpKs6/Screenshot-20231205-121133.jpg">  </a>
   <h1 align="center">
 
-    <p align="center">
+
+
 <a href="https://github.com/PRINCE-GDS?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/PRINCE-GDS?label=Followers&style=social"></a>
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRINCE-GDS/THE-PRINCE-BOT?&style=social"></a>
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/PRINCE-GDS/THE-PRINCE-BOT?style=social"></a>
